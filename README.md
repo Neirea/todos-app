@@ -1,6 +1,6 @@
 # Todos App
 
-Advanced Todo App built over 2 weeks
+Advanced Todos App built in 2 weeks
 
 ## Technologies
 
